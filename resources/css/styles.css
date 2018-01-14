@@ -1,0 +1,46 @@
+/* To go back a folder, you put 2 dots behind the first / */
+.header {
+	background-image: url("../images/the-flatiron-building.png");
+	color: white;
+}
+
+body {
+	font-family: "Helvetica";
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-weight: bold;
+}
+
+.header h1 {
+	font-size: 70px;
+}
+
+.navi {
+	font-size: 18px;
+	color: white;
+}
+
+.object h2 {
+	font-size: 32px;
+}
+
+.object h3 {
+	font-size: 23px;
+}
+
+.object p {
+	font-size: 14px;
+}
+
+.header h2 {
+	font-size: 23px;
+}
+
+.footer {
+	background-color: dimgray;
+	font-size: 11px;
+	color: white;
+	text-align: left;
+}
